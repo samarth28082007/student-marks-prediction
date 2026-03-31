@@ -130,7 +130,9 @@ streamlit run app.py
 
 ## 📸 Output Screenshot
 
-(Add your app screenshot here)
+<img width="1747" height="713" alt="Screenshot 2026-03-30 172039" src="https://github.com/user-attachments/assets/9c46ba9f-d80c-489c-a3c3-70084794d072" />
+
+<img width="1783" height="694" alt="Screenshot 2026-03-30 172111" src="https://github.com/user-attachments/assets/4b5436bc-b422-43ee-a8a2-aaf7bfdcd522" />
 
 ---
 
@@ -182,4 +184,5 @@ This project is open-source and available for educational purposes.
 * Scikit-learn documentation
 * Streamlit documentation
 * Open-source ML community
+
 
