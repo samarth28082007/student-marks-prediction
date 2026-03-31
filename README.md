@@ -15,11 +15,11 @@ The complete machine learning process is used to create this application, which 
 
 ## 🚀 Project Features:
 
-* 📊 Predict the score students will receive based on the number of hours spent studying
-* ⚡ Fast & Lightweight Machine Learning Model
-* 🌐 Interactive Web Application using Streamlit (enters data in real-time)
-* 💾 Uses Pickle for saving the machine learning model on the disk
-* 🧠 Beginner Friendly, allowing you to easily understand how the model operates as well as the concepts behind it
+*  Predict the score students will receive based on the number of hours spent studying
+*  Fast & Lightweight Machine Learning Model
+*  Interactive Web Application using Streamlit (enters data in real-time)
+*  Uses Pickle for saving the machine learning model on the disk
+*  Beginner Friendly, allowing you to easily understand how the model operates as well as the concepts behind it
 
 ---
 
